@@ -1,1 +1,1 @@
-# Mall customers
+# Mall customers segmentation
